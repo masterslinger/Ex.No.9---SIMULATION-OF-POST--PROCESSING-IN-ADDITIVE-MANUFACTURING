@@ -31,24 +31,24 @@
 ### 4.	When the first part is selected then it will open in the blank space in the left side of the screen.
 ### 5.	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
 
-## OUTPUT :
-
-## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
-
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
-
-## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
-
 ## Output:
 
-### Name:
-### Register Number:
+## Support Removal Process
+![image](https://github.com/user-attachments/assets/b5464279-4a81-4e2a-89d0-d6c13c72fcce)
+![image](https://github.com/user-attachments/assets/4944b0b3-9527-4497-806b-929203096a50)
+
+
+## UV Curing of 3D printed part
+![image](https://github.com/user-attachments/assets/114fe197-f4a4-4e6f-b5ea-832f314530ec)
+![image](https://github.com/user-attachments/assets/7d9012cd-5067-47d2-9668-b0cab0bb91f0)
+
+
+## Heat Treatment of 3D printed part
+![image](https://github.com/user-attachments/assets/10746d4c-429f-4735-846d-eab65abaf93e)
+![image](https://github.com/user-attachments/assets/4f9e5a8a-184e-4d4b-b3b3-b9ede41328c3)
+
+### Name: Syed Abu Hanifa
+### Register Number: 24009356
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
